@@ -1,5 +1,5 @@
 # PhoneDirectory
-Made for a DS project using java
+Made for a DS project using java.
 Group members: 
 Sameer Alam
 Abdul Ahad
